@@ -10,8 +10,10 @@ import '../node_modules/bootstrap/dist/css/bootstrap.css'
 import '../node_modules/bootstrap-vue/dist/bootstrap-vue.css'
 
 import _6f6c098b from '../layouts/default.vue'
+import _4faf324f from '../layouts/shared/footer.vue'
+import _52855f41 from '../layouts/shared/header.vue'
 
-const layouts = { "_default": sanitizeComponent(_6f6c098b) }
+const layouts = { "_default": sanitizeComponent(_6f6c098b),"_shared/footer": sanitizeComponent(_4faf324f),"_shared/header": sanitizeComponent(_52855f41) }
 
 export default {
   render (h, props) {

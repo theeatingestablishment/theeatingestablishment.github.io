@@ -1,8 +1,14 @@
 {
-  "Logo": {
-    "description": "Auto imported from components/Logo.vue"
+  "Item": {
+    "description": "Auto imported from components/item.vue"
   },
-  "LazyLogo": {
-    "description": "Auto imported from components/Logo.vue"
+  "LazyItem": {
+    "description": "Auto imported from components/item.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/menu.vue"
+  },
+  "LazyMenu": {
+    "description": "Auto imported from components/menu.vue"
   }
 }
