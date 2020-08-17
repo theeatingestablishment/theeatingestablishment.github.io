@@ -1,21 +1,32 @@
 <template>
-  <section class="menu pt-4 pb-4">
-    <Item
-      v-for="(item, index) in items"
-      :key="index"
-      :title="item.title"
-      :description="item.description"
-      :price="item.price"
-    >
-    </Item>
+  <section class="menu">
+    <Header></Header>
+
+    <div class="pt-5 pb-5">
+      <Item
+        v-for="(item, index) in items"
+        :key="index"
+        :title="item.title"
+        :description="item.description"
+        :price="item.price"
+      >
+      </Item>
+    </div>
+
+    <Footer></Footer>
   </section>
 </template>
 
 <script>
-import Item from "./item.vue";
+import Header from "./components/header.vue";
+import Footer from "./components/footer.vue";
+import Item from "./components/item.vue";
+
 export default {
   components: {
     Item,
+    Header,
+    Footer,
   },
   data() {
     return {

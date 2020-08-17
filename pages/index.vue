@@ -1,10 +1,20 @@
 <template>
-  <Menu></Menu>
+  <section>
+    <Menu></Menu>
+    <Beers></Beers>
+  </section>
 </template>
 
 <script>
-import Menu from "~/components/menu.vue";
-export default {};
+import Menu from "~/modules/menu.vue";
+import Beers from "~/modules/beers.vue";
+
+export default {
+  components: {
+    Menu,
+    Beers,
+  },
+};
 </script>
 
 <style></style>
