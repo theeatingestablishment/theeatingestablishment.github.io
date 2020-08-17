@@ -1,9 +1,18 @@
 <template>
   <div class="drink-item">
     <h2 class="text-white">{{ title }}</h2>
-    <p v-for="(item, index) in items" :key="index" class="text-white">
-      {{ item.title }} <span class="float-right pl-5">{{ item.price }}</span>
-    </p>
+    <div
+      class="d-flex justify-content-between pb-2"
+      v-for="(item, index) in items"
+      :key="index"
+    >
+      <p class="text-white">
+        {{ item.title }}
+      </p>
+      <div>
+        <p class="float-right pl-5 text-white">{{ item.price }}</p>
+      </div>
+    </div>
   </div>
 </template>
 
