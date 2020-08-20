@@ -79,6 +79,10 @@ export default {
               title: "2 Row Dangerous Farmhouse",
               price: 9,
             },
+            {
+              title: "Hazelnut",
+              price: 8,
+            },
           ],
         },
         {
@@ -89,7 +93,7 @@ export default {
               price: 7,
             },
             {
-              title: "Ghost Rider",
+              title: "Batsquatch",
               price: 7,
             },
             {
@@ -188,10 +192,6 @@ export default {
         {
           title: "Stout",
           items: [
-            {
-              title: "Saltfire Dirty CHAI",
-              price: 12,
-            },
             {
               title: "Epic S.O.B Coffee",
               price: 8,
