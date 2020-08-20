@@ -237,7 +237,7 @@ export default {
             },
             {
               title: "Trapiche Malbec",
-              price: 7,
+              price: "8/32",
             },
           ],
         },
@@ -246,23 +246,23 @@ export default {
           items: [
             {
               title: "Powers Chardonnay",
-              price: 7,
-            },
-            {
-              title: "Zampato Sauvignon",
-              price: 7,
-            },
-            {
-              title: "Riff Pinot Grigio",
               price: 8,
             },
             {
+              title: "Zampato Sauvignon",
+              price: "9/36",
+            },
+            {
+              title: "Riff Pinot Grigio",
+              price: "9/32",
+            },
+            {
               title: "Sonoma Cutrer Chardonnay",
-              price: 7,
+              price: "12/50",
             },
             {
               title: "Lorenza Rose",
-              price: 12,
+              price: "10/44",
             },
           ],
         },

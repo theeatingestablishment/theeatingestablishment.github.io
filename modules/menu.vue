@@ -57,11 +57,6 @@ export default {
           price: 13.0,
         },
         {
-          title: "Ginger Margarita",
-          description: "Tequila, Ginger Syrup, Lime, Cointreau",
-          price: 12,
-        },
-        {
           title: "Elderflower Grapefruit Mimosa",
           description: "Grapefruit, Prosecco, St. Germain Splash of soda",
           price: 10,
