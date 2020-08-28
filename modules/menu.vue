@@ -59,7 +59,7 @@ export default {
         {
           title: "Elderflower Grapefruit Mimosa",
           description: "Grapefruit, Prosecco, St. Germain Splash of soda",
-          price: 10,
+          price: 12,
         },
         {
           title: "Bloody Mary",

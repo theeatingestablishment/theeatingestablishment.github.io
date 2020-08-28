@@ -76,12 +76,20 @@ export default {
               price: 7,
             },
             {
-              title: "2 Row Dangerous Farmhouse",
-              price: 9,
-            },
-            {
               title: "Hazelnut",
               price: 8,
+            },
+            {
+              title: "Amber Ale Zolupez",
+              price: 6,
+            },
+            {
+              title: "Golden Ale Zolupez",
+              price: 6,
+            },
+            {
+              title: "Mountain Berry Sour",
+              price: 7,
             },
           ],
         },
@@ -119,10 +127,6 @@ export default {
             {
               title: "Elysian Space Dust",
               price: 9,
-            },
-            {
-              title: "Epic Tart n Juicy Sour",
-              price: 8,
             },
           ],
         },
