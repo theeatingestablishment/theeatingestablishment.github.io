@@ -32,13 +32,8 @@ export default {
     return {
       items: [
         {
-          title: "Ginger Margarita",
-          description: "Tequila, Ginger Syrup, Lime, Cointreau",
-          price: 12,
-        },
-        {
-          title: "High West Smash",
-          description: "HW American Prairie, Lemon, Mint, Simple Syrup",
+          title: "Rum Sour ",
+          description: "Captain Morgan, Cinnamon Syrup, Lemon, Egg White ",
           price: 12,
         },
         {
@@ -47,12 +42,12 @@ export default {
           price: 12,
         },
         {
-          title: "Smokey Paloma",
-          description: "Tequila, Mezcal, Lime, Grapefruit, Jalapeno Syrup",
+          title: "Kettle One Guava",
+          description: "Kettle One Vodka, Guava juice, Lemon, ",
           price: 12,
         },
         {
-          title: "APerol Spritz",
+          title: "Aperol Spritz",
           description: "Aperol, Prosecco, Splash of soda",
           price: 13.0,
         },

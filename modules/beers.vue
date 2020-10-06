@@ -48,35 +48,27 @@ export default {
           title: "Ale",
           items: [
             {
-              title: "Bud Light",
+              title: "Bud Light, 4.2%",
               price: 5,
             },
             {
-              title: "Boddingtons",
-              price: 5,
-            },
-            {
-              title: "Big Sky Moose drool",
-              price: 8,
-            },
-            {
-              title: "Park City American Pale",
+              title: "Park City American Pale, 5.6%",
               price: 6,
             },
             {
-              title: "2 Row 24k Golden",
+              title: "2 Row 24k Golden, 5.7%",
               price: 7,
             },
             {
-              title: "Little Sumpin Sumpin",
+              title: "Little Sumpin Sumpin, 7.5%",
               price: 7,
             },
             {
-              title: "Melvin Hubert",
+              title: "Melvin Hubert, 6%",
               price: 7,
             },
             {
-              title: "Hazelnut",
+              title: "Hazelnut, 5.6% ",
               price: 8,
             },
             {
@@ -88,8 +80,8 @@ export default {
               price: 6,
             },
             {
-              title: "Mountain Berry Sour",
-              price: 7,
+              title: "Mobius Trip, 7.3%",
+              price: 14,
             },
           ],
         },
@@ -97,7 +89,7 @@ export default {
           title: "IPA",
           items: [
             {
-              title: "Pono Life, Maui Brewing",
+              title: "Pono Life Hazy, 5%",
               price: 7,
             },
             {
@@ -105,27 +97,27 @@ export default {
               price: 7,
             },
             {
-              title: "Deschutes Fresh Squeezed",
+              title: "Deschutes Fresh Squeezed, 6.4%",
               price: 8,
             },
             {
-              title: "Roha Thursday",
+              title: "Roha Thursday, 6.5%",
               price: 7,
             },
             {
-              title: "Salt Fire Big In Japan",
+              title: "Salt Fire Big In Japan, 7.1%",
               price: 12,
             },
             {
-              title: "Melvin, IPA",
+              title: "Melvin, IPA, 7.5%",
               price: 7,
             },
             {
-              title: "Stone Delicious",
+              title: "Stone Delicious, 7.7%",
               price: 8,
             },
             {
-              title: "Elysian Space Dust",
+              title: "Elysian Space Dust, 8.2%",
               price: 9,
             },
           ],
@@ -134,15 +126,15 @@ export default {
           title: "Lager",
           items: [
             {
-              title: "Rogue Dreamland",
+              title: "Rogue Dreamland, 4.8%",
               price: 5,
             },
             {
-              title: "Samuel Adams",
+              title: "Samuel Adams, 5%",
               price: 6,
             },
             {
-              title: "Wasatch Devastator",
+              title: "Wasatch Devastator, 8%",
               price: 7,
             },
           ],
@@ -151,19 +143,19 @@ export default {
           title: "Double IPA",
           items: [
             {
-              title: "Red Rock Elephino",
+              title: "Red Rock Elephino, 8%",
               price: 12,
             },
             {
-              title: "Squatter Hop Rising",
+              title: "Squatter Hop Rising, 9%",
               price: 7,
             },
             {
-              title: "Squatters Tropical Ipa",
+              title: "Squatters Tropical Ipa, 9%",
               price: 7,
             },
             {
-              title: "MElvin 2x4",
+              title: "Melvin 2x4, 9.9%",
               price: 9,
             },
           ],
@@ -172,23 +164,23 @@ export default {
           title: "Pilsner",
           items: [
             {
-              title: "Pacifico",
+              title: "Pacifico, 4.2%",
               price: 5,
             },
             {
-              title: "Roadhouse Highwayman",
+              title: "Roadhouse Highwayman, 4.5%",
               price: 7,
             },
             {
-              title: "Nzed Pilsner",
+              title: "Nzed Pilsner, 5.4%",
               price: 12,
             },
             {
-              title: "Proper Czech Your Head",
+              title: "Proper Czech Your Head, 6%",
               price: 10,
             },
             {
-              title: "Park City Imperial",
+              title: "Park City Imperial, 7.7%",
               price: 7,
             },
           ],
@@ -197,11 +189,11 @@ export default {
           title: "Stout",
           items: [
             {
-              title: "Epic S.O.B Coffee",
-              price: 8,
+              title: "Saltfire Dirty Chai, 6.7%",
+              price: 10,
             },
             {
-              title: "Red Rock Drioma Imperial",
+              title: "Red Rock Drioma Imperial 10.1%",
               price: 12,
             },
           ],
@@ -210,8 +202,8 @@ export default {
           title: "Porter",
           items: [
             {
-              title: "Deschutes Black Butte",
-              price: 6,
+              title: "Grand Teton Mocha Porter",
+              price: 7,
             },
           ],
         },
