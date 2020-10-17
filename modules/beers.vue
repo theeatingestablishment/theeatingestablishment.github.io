@@ -68,15 +68,15 @@ export default {
               price: 7,
             },
             {
-              title: "Hazelnut, 5.6% ",
+              title: "Hazelnut, 5.6%",
               price: 8,
             },
             {
-              title: "Amber Ale Zolupez",
+              title: "Amber Ale Zolupez, 5%",
               price: 6,
             },
             {
-              title: "Golden Ale Zolupez",
+              title: "Golden Ale Zolupez, 5%",
               price: 6,
             },
             {
@@ -193,7 +193,7 @@ export default {
               price: 10,
             },
             {
-              title: "Red Rock Drioma Imperial 10.1%",
+              title: "Red Rock Drioma Imperial, 10.1%",
               price: 12,
             },
           ],
@@ -202,7 +202,7 @@ export default {
           title: "Porter",
           items: [
             {
-              title: "Grand Teton Mocha Porter",
+              title: "Grand Teton Mocha Porter, 5%",
               price: 7,
             },
           ],

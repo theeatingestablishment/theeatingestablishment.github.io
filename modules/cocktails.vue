@@ -32,34 +32,24 @@ export default {
     return {
       items: [
         {
-          title: "Rum Sour ",
-          description: "Captain Morgan, Cinnamon Syrup, Lemon, Egg White ",
+          title: "Ginger Margarita",
+          description: "El Jimador, Ginger Syrup, Lime, Cointreau, Salted Rum",
           price: 12,
         },
         {
-          title: "Pamplemousse",
-          description: "Gin, Grapefruit, St. Germain, Lemon, Basil",
+          title: "Guava Cosmo",
+          description: "Kettle One Vodka, Guava juice, Lemon, O.J, Licor 43",
           price: 12,
         },
         {
-          title: "Kettle One Guava",
-          description: "Kettle One Vodka, Guava juice, Lemon, ",
+          title: "Rum Sour",
+          description: "Captain Morgan, Cinnamon Syrup, Lemon, Egg White",
+          price: 13,
+        },
+        {
+          title: "Irish Coffee",
+          description: "Jameson, Irish Cream Liqueur, Coffee, Whipped Cream",
           price: 12,
-        },
-        {
-          title: "Aperol Spritz",
-          description: "Aperol, Prosecco, Splash of soda",
-          price: 13.0,
-        },
-        {
-          title: "Elderflower Grapefruit Mimosa",
-          description: "Grapefruit, Prosecco, St. Germain Splash of soda",
-          price: 12,
-        },
-        {
-          title: "Bloody Mary",
-          description: "Vodka, House Made Bloody Mary Mix",
-          price: 10,
         },
       ],
     };
